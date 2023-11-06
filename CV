@@ -18,6 +18,28 @@
             <li>International Marketing</li>
             <li>E-business</li>
         </ul>
+  </header>
+
+    <section>
+        <h2>Experiences</h2>
+        <p>Worked as an Assistant Manager for operations in a Manufacturing firm.</p>
+        <p>Six months training at Bharat Electronica Limited.</p>
+    </section>
+
+    <section>
+        <h2>Academics</h2>
+        <ul>
+            <li>B.Tech in Mechanical Engineering (2014-2017)</li>
+            <li>Diploma in Mechanical Engineering (2011-2014)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Listening to music</li>
+            <li>Exploring new people</li>
+        </ul>
     </section>
 </body>
 </html>
